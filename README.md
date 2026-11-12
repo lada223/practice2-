@@ -11,6 +11,7 @@
        │   Client1    │ (TCP)                 │   Client4    │ (UDP)
        │   Client2    │ (TCP)                 │   Client5    │ (UDP)
        │   Client3    │ (TCP)                 │   Client6    │ (UDP)
+                                                  Client7    │ (UDP)
        └──────┬───────┘                       └──────┬───────┘
               │                                      │
               │ TCP : 5000                           │ UDP : 6000
